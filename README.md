@@ -1,3 +1,5 @@
+### Note: This readme was AI generated :)
+
 # SpeakWise
 
 A modern communication application built with React and Node.js, designed to provide seamless voice and video calling capabilities.
@@ -94,20 +96,3 @@ cd backend
 npm run dev
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the ISC License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to the open-source community for their contributions
-- Special thanks to the WebRTC team for their amazing technology
-- Thanks to all contributors who have helped shape this project
